@@ -1,11 +1,16 @@
+.s-1 {
+	margin-bottom: 120px;
+}
+
 .container {
 	width: 1052px;
 	margin: 0 auto;
 	border: 2px dotted black;
+
 }
-.s-1 {
-	margin-bottom: 120px;
-}
+
+
+
 .info-div {
 	margin-bottom: 26px;
 }
@@ -46,6 +51,8 @@ h3 {
 	background-color: #E7E7E7;
 	display: inline-block;
 	margin-right: 44px;
+	padding: 20px;
+	vertical-align: top;
 }
 
 .card-2 {
@@ -53,6 +60,32 @@ h3 {
 	height: 192px;
 	background-color: #E7E7E7;
 	display: inline-block;
+	padding: 20px;
+	vertical-align: top;
+}
+
+h4 {
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #7E8898;
+}
+
+h5 {
+	font-family: 'Tilt Prism', cursive;
+	font-size: 16px;
+	line-height: 19px;
+
+}
+
+h6 {
+	margin: 50px 0;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 16px;
+	line-height: 19px;
+
 }
 
 
