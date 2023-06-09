@@ -1,4 +1,60 @@
-h2 {
-	font-size: 80px;
-	color: cyan;
+.container {
+	width: 1052px;
+	margin: 0 auto;
+	border: 2px dotted black;
 }
+.s-1 {
+	margin-bottom: 120px;
+}
+.info-div {
+	margin-bottom: 26px;
+}
+
+h2 {
+	display: inline-block;
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+	color: #4E6FAE;
+	margin-right: 18px;
+	vertical-align: middle;
+}
+.stick {
+	display: inline-block;
+	margin-right: 18px;
+	width: 2px;
+	height: 30px;
+	background-color: #5012D5;
+	vertical-align: middle;
+}
+h3 {
+	display: inline-block;
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 31px;
+	color: #4E6FAE;
+	vertical-align: middle;
+}
+
+.card-1 {
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	margin-right: 44px;
+}
+
+.card-2 {
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	display: inline-block;
+}
+
+
+
+
